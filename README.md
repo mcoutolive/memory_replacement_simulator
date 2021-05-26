@@ -1,1 +1,1 @@
-# Algoritmo que simulam realocacao de memoria do tipo FIFO, LFU e Otimo. 
+# Algoritmos que simulam realocacao de memoria do tipo FIFO, LFU e Otimo. 
