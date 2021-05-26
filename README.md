@@ -1,1 +1,1 @@
-# memory_replacement_simulator
+# Algoritmo que simula realocacao de memoria do tipo FIFO
