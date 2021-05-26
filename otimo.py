@@ -1,7 +1,7 @@
 print("Digite o numero de frames: ",end="")
 capacity = int(input())
 f,fault,pf = [],0,'Nao'
-print("Digite a string de referencia: ",end="")
+print("E' importante que os numeros digitados sejam separados por um espaco. Digite a string de referencia: ",end="")
 s = list(map(int,input().strip().split()))
 print("\nString|Frame →\t",end='')
 for i in range(capacity):
