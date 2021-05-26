@@ -6,7 +6,7 @@ s = list(map(int,input().strip().split()))
 print("\nString|Frame →\t",end='')
 for i in range(capacity):
     print(i,end=' ')
-print("Fault\n   ↓\n")
+print("Houve page fault?\n   ↓\n")
 occurance = [None for i in range(capacity)]
 for i in range(len(s)):
     if s[i] not in f:
